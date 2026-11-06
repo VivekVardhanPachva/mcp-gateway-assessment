@@ -1,0 +1,8 @@
+mcp>=1.0,<2
+fastapi
+uvicorn
+pydantic>=2
+httpx
+pytest
+pytest-asyncio
+anyio
